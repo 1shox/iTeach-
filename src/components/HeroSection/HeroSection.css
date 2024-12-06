@@ -1,0 +1,6 @@
+.content{
+      background-image: url('/src/assets/images/bg-content.png');
+      background-repeat: no-repeat; /* Rasm takrorlanmasligi uchun */
+      background-size: cover; /* Rasm elementni to'liq qoplash uchun */
+      background-position: center;
+}
